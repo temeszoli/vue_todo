@@ -1,9 +1,8 @@
 {
-  "name": "vue_tutorial",
+  "name": "vue_todo",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "/vue_todo/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
