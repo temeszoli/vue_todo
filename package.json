@@ -1,9 +1,9 @@
 {
-  "name": "vue_tudo",
+  "name": "vue_todo",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "/vue_todo/",
+  "homepage": "https://temeszoli.github.io/vue_todo/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
