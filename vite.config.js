@@ -4,5 +4,5 @@ import vue from "@vitejs/plugin-vue";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [vue()],
-  //base: "https://temeszoli.github.io/vue_todo/",
+  base: "https://temeszoli.github.io/vue_todo/",
 });
